@@ -1,1 +1,1 @@
-This is the placeholder readme file
+This is the readme file for the Devops training content
